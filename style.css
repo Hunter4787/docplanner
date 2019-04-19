@@ -1,0 +1,106 @@
+.cards-img{
+    margin: 66%;
+    width:193%;
+}
+
+.card1-bg{
+    background-color: #33b39b;
+}
+.card2-bg{
+    background-color:#3d83df;
+}
+
+.flags-bg{
+    background-color: #d9f6f5
+}
+
+.flag-styles{
+    width: 70%;
+    height: 198px;
+}
+
+.flag-left{
+    margin: 50px 88px;
+}
+.flag-right{
+    margin: 10px 20px;
+
+}
+
+.paragraphes {
+    padding: 91px 0px;
+
+}
+.hide-img{
+    overflow: hidden;
+}
+nav{
+background-color:  rgba(255, 255, 255, 0.98);
+opacity: 0.9;
+}
+path:hover{
+ fill:#33b39b;
+}
+.logo-mid {
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+}
+
+.logo-espacement *{
+    padding: 0px 0px 0px 30px;
+    fill: #c4c4c4;
+}
+.text-doc{
+    color: #33b39b;
+}
+
+.style-select{
+    height: 10%;
+    margin-left: 20px;
+}
+.bloc-company{
+    padding: 56px 0px;
+
+}
+
+.lower-styles{
+    width: 46%;
+
+}
+
+.btn{
+
+}
+.img-fluid {
+    max-width: 168%;
+    height: auto;
+}
+main{
+    padding: 78px 0px;
+
+}
+@media only screen and (max-width:800px){
+
+ main{
+    padding: 81px 0px;
+
+ }
+
+ .office-bottom{
+     display: flex;
+     flex-direction: column;
+     margin: 10px auto;
+ }
+
+}  
+
+@media only screen and (max-width:990px){
+    .parag-top{
+        padding: 25px 0px;
+    }
+    .card-space
+    {margin: 10px 0px;}
+  }  
+ 
+  
